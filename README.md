@@ -25,11 +25,11 @@ You can download, install and maintain your own GitLab instance.
 
 ## Gogs
 
-[](https://gogs.io/)
+[Gogs](https://gogs.io/)
 
 ## GitBucket
 
-[Gitbucket](https://gitbucket.com/)
+[Gitbucket](https://gitbucket.github.io/)
 
 ## Gitea
 
